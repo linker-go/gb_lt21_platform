@@ -1,0 +1,9 @@
+ {
+
+ 	"language": "zh-hans",
+ 	"plugins": [
+        "-sharing",
+        "chapter-fold",
+        "splitter"
+    ]
+}
